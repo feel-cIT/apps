@@ -4,6 +4,9 @@
 
 FeelPay POS is a modern POS software designed for a seamless plug-and-play experience. It is perfect for managing inventory, handling multiple roles, and operating efficiently in various business environments. 
 
+<a href="https://github.com/FeelPay/desktop/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for desktop setup</a>
+
+
 
 ## Features
 - **Inventory Management**: Keep track of your stock levels and ensure accurate data.
