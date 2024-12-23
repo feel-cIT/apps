@@ -37,6 +37,13 @@ FeelPay POS is a modern POS software designed for a seamless plug-and-play exper
 ## Download
 Click [here](https://github.com/FeelPay/desktop/releases) to download the latest version of FeelPay Desktop POS.
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/51312956-ecd6-4201-b131-c9ee37fa3d71)
+
+
+
+
+
+
 ![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734763237/Screenshot_2024-12-20_105610_c4zjjf.png)
 ![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681608/Screenshot_2024-12-20_105551_vggqol.png)
 ![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681609/Screenshot_2024-12-20_105821_pm3p8w.png)
