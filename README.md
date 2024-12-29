@@ -1,3 +1,4 @@
+
 # FeelPay POS
 
 ![Version](https://img.shields.io/github/v/release/FeelPay/desktop?label=Latest%20Version)
@@ -41,11 +42,9 @@ Click [here](https://github.com/FeelPay/desktop/releases) to download the latest
 
 
 
-
-
-
 ![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734763237/Screenshot_2024-12-20_105610_c4zjjf.png)
 ![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681608/Screenshot_2024-12-20_105551_vggqol.png)
 ![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681609/Screenshot_2024-12-20_105821_pm3p8w.png)
 ![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681609/Screenshot_2024-12-20_105857_xyuqde.png)
-
+<img width="945" alt="Screenshot 2024-12-29 083322" src="https://github.com/user-attachments/assets/d49324ef-d5be-4828-aff4-67a87561a426" />
+<img width="960" alt="Screenshot 2024-12-29 083248" src="https://github.com/user-attachments/assets/b49d576d-17c0-4734-89eb-0c3725373255" />
