@@ -27,7 +27,7 @@ FeelPay POS is a modern POS software designed for a seamless plug-and-play exper
 |---------------------------------|--------------------|------------------|---------------------|----------------------|
 | Offline First                   | 🟩                 | 🟩               | 🟩                  | 🟩                   |
 | Scanners (Web HID)              | 🟩                 | 🟩               | 🟩                  | 🟩                   |
-| Connected Thermal Printers      | 🟩                 | 🟩               | 🟥                  | 🟥                   |
+| Connected Thermal Printers      | 🟩                 | 🟩               | 🟩                  | 🟩                   |
 | Standalone Terminal Mode        | 🟩                 | 🟩               | 🟥                  | 🟩                   |
 | Create Local Server             | 🟩                 | 🟥               | 🟥                  | 🟥                   |
 | Authorizing Local Connections   | 🟩                 | 🟥               | 🟥                  | 🟥                   |
