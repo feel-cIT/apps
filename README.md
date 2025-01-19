@@ -3,9 +3,12 @@
 
 ![Version](https://img.shields.io/github/v/release/FeelPay/desktop?label=Latest%20Version)
 
-FeelPay POS is a modern POS software designed for a seamless plug-and-play experience. It is perfect for managing inventory, handling multiple roles, and operating efficiently in various business environments. 
+FeelPay POS is a modern POS software designed for a seamless plug-and-play experience. It is perfect  for multiple terminals on LAN managing inventory, handling multiple roles, and operating efficiently in various business environments. 
 
-<a href="https://github.com/FeelPay/desktop/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for desktop setup</a>
+<a href="https://github.com/FeelPay/desktop/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for windows setup</a>
+
+<a href="https://github.com/OdidaProtas/pos-linux/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for Linux application</a>
+
 
 <a href="https://github.com/FeelPay/Feelpay-POS-for-Android-/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay for Android APK</a>
 
@@ -14,11 +17,10 @@ FeelPay POS is a modern POS software designed for a seamless plug-and-play exper
 
 
 
-
 ## Features
 - **Inventory Management**: Keep track of your stock levels and ensure accurate data.
 - **Printer Integration**: Effortlessly connect with ECPOS-compliant printers via USB or Bluetooth.
-- **LAN Sharing**: Share your POS connection across the local network.
+- **LAN Connections**: Share your POS connection across the local network.
 - **Role Management**: Assign multiple roles such as supervisor, salesperson, or manager.
 - **Daily Shifts**: Manage shifts with ease for daily operations.
 - **Expenses Tracking**: Record and monitor business expenses.
@@ -29,7 +31,7 @@ FeelPay POS is a modern POS software designed for a seamless plug-and-play exper
 | Scanners (Web HID)              | 🟩                 | 🟩               | 🟩                  | 🟩                   |
 | Connected Thermal Printers      | 🟩                 | 🟩               | 🟩                  | 🟩                   |
 | Standalone Terminal Mode        | 🟩                 | 🟩               | 🟥                  | 🟩                   |
-| Create Local Server             | 🟩                 | 🟥               | 🟥                  | 🟥                   |
+| Create LAN Server             | 🟩                 | 🟥               | 🟥                  | 🟥                   |
 | Authorizing Local Connections   | 🟩                 | 🟥               | 🟥                  | 🟥                   |
 | Storage Limit (Capacitor SQLite)| 🟥                 | 🟥               | 🟩                  | 🟥                   |
 | Cloud backup                    | 🟥                 | 🟥               | 🟥                  | 🟥                   |
