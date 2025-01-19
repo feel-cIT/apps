@@ -3,6 +3,10 @@
 
 ![Version](https://img.shields.io/github/v/release/FeelPay/desktop?label=Latest%20Version)
 
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b1f56546-605d-4557-a5cc-cbaa2ea08f62" />
+
+
 FeelPay POS is a cutting-edge, offline-first POS software designed for a seamless plug-and-play experience. Ideal for multi-terminal setups, it excels in managing inventory, accommodating multiple roles, and ensuring efficient operations across diverse business environments.
 
 
