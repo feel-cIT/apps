@@ -1,5 +1,5 @@
 
-# FeelPay POS
+# Dreamfeel
 
 ![Version](https://img.shields.io/github/v/release/FeelPay/desktop?label=Latest%20Version)
 
